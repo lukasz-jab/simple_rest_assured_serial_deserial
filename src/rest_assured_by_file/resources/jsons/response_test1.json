@@ -1,0 +1,25 @@
+{
+  "args": {
+
+  },
+  "data": "{\r\n  \"key1\": \"value1\",\r\n  \"key2\": \"value2\"\r\n}",
+  "files": {
+
+  },
+  "form": {
+
+  },
+  "headers": {
+    "x-forwarded-proto": "https",
+    "x-forwarded-port": "443",
+    "host": "postman-echo.com",
+    "x-amzn-trace-id": "Root=1-6650c904-605316992e5156ea6b50f60b",
+    "content-length": "45",
+    "accept": "*/*",
+    "content-type": "text/plain; charset=ISO-8859-1",
+    "user-agent": "Apache-HttpClient/4.5.13 (Java/22.0.1)",
+    "accept-encoding": "gzip,deflate"
+  },
+  "json": null,
+  "url": "https://postman-echo.com/post"
+}
